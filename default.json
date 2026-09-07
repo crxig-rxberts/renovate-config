@@ -1,0 +1,37 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "autoApprove": true,
+  "automerge": true,
+  "commitBodyTable": true,
+  "customManagers": [
+    {
+      "customType": "regex",
+      "datasourceTemplate": "github-releases",
+      "depNameTemplate": "crxig-rxberts/renovate-config",
+      "fileMatch": [
+        "^renovate\\.json5?$",
+        "^\\.github/renovate\\.json5?$",
+        "^\\.renovaterc\\.json$",
+        "^\\.renovaterc$"
+      ],
+      "matchStrings": [
+        "\"github>crxig-rxberts/renovate-config#(?<currentValue>[^\" \\n\\(]+)"
+      ]
+    }
+  ],
+  "dependencyDashboardOSVVulnerabilitySummary": "all",
+  "extends": [
+    ":configMigration",
+    ":enablePreCommit",
+    ":semanticCommits",
+    ":semanticPrefixChore",
+    "config:best-practices",
+    "group:all"
+  ],
+  "minimumReleaseAge": "5 days",
+  "osvVulnerabilityAlerts": true,
+  "lockFileMaintenance": {
+    "enabled": false
+  },
+  "platformAutomerge": true
+}
