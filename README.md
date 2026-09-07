@@ -9,7 +9,7 @@ Use the latest tag as a reference from the [latest release](https://github.com/c
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>crxig-rxberts/renovate-config#0.2.0"]
+  "extends": ["github>crxig-rxberts/renovate-config#0.2.1"]
 }
 ```
 
