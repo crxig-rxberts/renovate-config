@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.0](https://github.com/crxig-rxberts/renovate-config/compare/0.2.1...0.3.0) (2026-09-08)
+
+### Features
+
+* instant updates for [@crxig-rxberts](https://github.com/crxig-rxberts) npm packages ([8bd0de8](https://github.com/crxig-rxberts/renovate-config/commit/8bd0de85e2a24e29640474437bfcfc66fa48500a))
+
 ## [0.2.1](https://github.com/crxig-rxberts/renovate-config/compare/0.2.0...0.2.1) (2026-09-07)
 
 ### Chores
