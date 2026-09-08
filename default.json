@@ -39,6 +39,12 @@
       "matchPackageNames": ["@crxig-rxberts/*"],
       "minimumReleaseAge": "0 days",
       "description": "Instant updates for own npm packages"
+    },
+    {
+      "matchDatasources": ["github-releases"],
+      "matchDepNames": ["crxig-rxberts/*"],
+      "minimumReleaseAge": "0 days",
+      "description": "Instant updates for own GitHub release ref/tag pins"
     }
   ],
   "platformAutomerge": true
