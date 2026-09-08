@@ -33,5 +33,13 @@
   "lockFileMaintenance": {
     "enabled": false
   },
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "matchPackageNames": ["@crxig-rxberts/*"],
+      "minimumReleaseAge": "0 days",
+      "description": "Instant updates for own npm packages"
+    }
+  ],
   "platformAutomerge": true
 }
