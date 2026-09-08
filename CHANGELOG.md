@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.0](https://github.com/crxig-rxberts/renovate-config/compare/0.3.1...0.4.0) (2026-09-08)
+
+### Features
+
+* instant updates for crxig-rxberts GitHub release ref/tag pins ([470b826](https://github.com/crxig-rxberts/renovate-config/commit/470b826e411528920ba07439ed281556dee59034)), references [crxig-rxberts/renovate-config#X](https://github.com/crxig-rxberts/renovate-config/issues/X)
+
 ## [0.3.1](https://github.com/crxig-rxberts/renovate-config/compare/0.3.0...0.3.1) (2026-09-08)
 
 ### Continuous Integration
