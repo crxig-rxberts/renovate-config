@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.3.1](https://github.com/crxig-rxberts/renovate-config/compare/0.3.0...0.3.1) (2026-09-08)
+
+### Continuous Integration
+
+* fix release-it-containerized push auth in Docker container ([4a56a53](https://github.com/crxig-rxberts/renovate-config/commit/4a56a5332fcc105e7d6e79893f2daaf9078328ce))
+
+### Chores
+
+* **deps:** update all dependencies ([31e2804](https://github.com/crxig-rxberts/renovate-config/commit/31e2804c920b36fe5e7a3d0d15619fe6079fbad0))
+
 ## [0.3.0](https://github.com/crxig-rxberts/renovate-config/compare/0.2.1...0.3.0) (2026-09-08)
 
 ### Features
