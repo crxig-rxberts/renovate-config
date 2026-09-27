@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.47](https://github.com/crxig-rxberts/renovate-config/compare/0.4.46...0.4.47) (2026-09-27)
+
+### Chores
+
+* **deps:** update dependency crxig-rxberts/renovate-config to v0.4.46 ([#51](https://github.com/crxig-rxberts/renovate-config/issues/51)) ([d5552eb](https://github.com/crxig-rxberts/renovate-config/commit/d5552eb35534f6afb96baa274bf38882e092000c))
+
 ## [0.4.46](https://github.com/crxig-rxberts/renovate-config/compare/0.4.45...0.4.46) (2026-09-27)
 
 ### Chores
