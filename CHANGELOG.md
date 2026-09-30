@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.55](https://github.com/crxig-rxberts/renovate-config/compare/0.4.54...0.4.55) (2026-09-30)
+
+### Bug Fixes
+
+* stop self-reference release loop ([628465a](https://github.com/crxig-rxberts/renovate-config/commit/628465a2d09e5c99071f034ae1b3a8132e6dcc07))
+
 ## [0.4.54](https://github.com/crxig-rxberts/renovate-config/compare/0.4.53...0.4.54) (2026-09-30)
 
 ### Chores
