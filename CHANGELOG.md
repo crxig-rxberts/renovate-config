@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.62](https://github.com/crxig-rxberts/renovate-config/compare/0.4.61...0.4.62) (2026-10-03)
+
+### Chores
+
+* **deps:** update pre-commit hook crxig-rxberts/code-standards to v0.3.13 ([#66](https://github.com/crxig-rxberts/renovate-config/issues/66)) ([8ff68db](https://github.com/crxig-rxberts/renovate-config/commit/8ff68db5587917c4e89aca307bb460ee798df2aa))
+
 ## [0.4.61](https://github.com/crxig-rxberts/renovate-config/compare/0.4.60...0.4.61) (2026-10-02)
 
 ### Chores
