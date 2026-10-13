@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.71](https://github.com/crxig-rxberts/renovate-config/compare/0.4.70...0.4.71) (2026-10-13)
+
+### Chores
+
+* **deps:** update juancarlosjr97/release-it-containerized action to v2.2.13 ([#75](https://github.com/crxig-rxberts/renovate-config/issues/75)) ([acad25c](https://github.com/crxig-rxberts/renovate-config/commit/acad25c1322e35a33baae73b446c7de3a6613afe))
+
 ## [0.4.70](https://github.com/crxig-rxberts/renovate-config/compare/0.4.69...0.4.70) (2026-10-10)
 
 ### Chores
