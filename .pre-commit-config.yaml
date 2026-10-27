@@ -1,5 +1,5 @@
 repos:
   - repo: https://github.com/crxig-rxberts/code-standards
-    rev: v0.3.24
+    rev: v0.3.25
     hooks:
       - id: markdown-lint
