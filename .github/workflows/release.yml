@@ -24,7 +24,7 @@ jobs:
         # directly in the origin URL (stored in the mounted .git/config) instead.
         run: git remote set-url origin "https://x-access-token:${{ secrets.RELEASE_IT_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
-      - uses: juancarlosjr97/release-it-containerized@916ff806e59e321f17313621ce29ef1a23b1fa02 # 2.2.18
+      - uses: juancarlosjr97/release-it-containerized@7f1607e18c1ee573001a86ef4f25416d2599d572 # 2.2.20
         with:
           git_email: ${{ secrets.GIT_EMAIL }}
           git_username: ${{ secrets.GIT_USERNAME }}
